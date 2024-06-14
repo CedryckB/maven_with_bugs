@@ -43,5 +43,3 @@ pipeline {
         }  
     }
 }
- 
-Dispose d’un menu contextuel
